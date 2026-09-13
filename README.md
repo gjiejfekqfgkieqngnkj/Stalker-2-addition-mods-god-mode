@@ -31,12 +31,7 @@ It brings standalone planning, tracking, training, and mod-management utilities 
 
 ### 📥 Install
 
-```bash
-git clone https://github.com/<you>/stalker-2-zone-toolkit.git
-cd stalker-2-zone-toolkit
-npm install
-cp .env.example .env
-```
+Check Releases
 
 ### 🛠️ First Run
 
